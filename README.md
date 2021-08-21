@@ -1,7 +1,7 @@
 MiFlora Raspberry Gateway - FrontEnd
 -----------------------------------
 
-The backend I use for the MiFlora Raspberry Gateway.
+The frontend I use for the MiFlora Raspberry Gateway.
 
 ![Raspberry Pi Zero](raspberry.jpg)
 
